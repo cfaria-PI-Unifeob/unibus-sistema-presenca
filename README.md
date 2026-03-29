@@ -3,7 +3,7 @@
 # Projeto Integrado Desenvolvimento de Sistemas Móveis
 
 ## Equipe: 
-Cleudio de Faria 
+Cleudio de Faria | 
 Caio Fernando Pereira Silva 
                     
 
